@@ -1,3 +1,7 @@
+#Right click or "s" key for start node 
+#left click or "e" key for end node 
+#hold left click to bulid walls 
+#space bar to start 
 import pygame
 import math
 from queue import PriorityQueue
